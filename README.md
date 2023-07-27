@@ -1,8 +1,8 @@
 # 42Cursus FT_CONTAINER
 
-## Goal : 자신만의 C++ 컨테이너를 만들어보는 과제입니다.
+## C++의 컨테이너를 직접 구현해보기
 
-이 프로젝트는 C++의 STL(Standard Template Library) 컨테이너들을 직접 구현해 보는 것이 목표입니다. Vector, Utilities, Stack 그리고 Map을 직접 만들어 보며, C++에 대한 이해도를 향상시키고, 알고리즘 및 자료구조에 대한 지식을 확장하게 됩니다.
+이 프로젝트는 C++의 STL(Standard Template Library) 컨테이너들을 직접 구현해 보는 것이 목표입니다. Vector, Utilities, Stack 그리고 Map을 직접 만들어 보며, C++에 대한 이해도를 향상시키고, 알고리즘 및 자료구조에 대한 지식을 확장하게 됩니다. 또한, 템플릿 프로그래밍을 실제로 해보면서 해당 내용에 대한 확실한 이해를 할 수 있습니다.
 
 ## 컨테이너들에 대한 설명
 
